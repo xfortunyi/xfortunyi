@@ -1,4 +1,5 @@
-Hi 👋 Welcome to my profile
+Hi 👋 Welcome to my profile!
+=============================
 
 JavaScript Full Stack Developer
 
@@ -35,4 +36,4 @@ JavaScript Full Stack Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/xfortunyi"><img src="https://github-readme-stats.vercel.app/api?username=xfortunyi&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="xfortunyi's GitHub stats" /></a>
+<a href="http://www.github.com/xfortunyi"><img src="https://github-readme-stats.vercel.app/api?username=xfortunyi&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="xfortunyi's GitHub stats" /></a>
