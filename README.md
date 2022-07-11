@@ -26,6 +26,7 @@ Full Stack Developer
 <p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://koajs.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/3e52cdf3a9706bb10f21dd7b74a836f87ec9957af06967b8d25c4390219d8352/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6b6f612d312e737667" width="36" height="36" alt="Koa" data-canonical-src="https://cdn.worldvectorlogo.com/logos/koa-1.svg" style="max-width: 100%;"></a>
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 
 ### Databases
@@ -39,6 +40,7 @@ Full Stack Developer
 
 ### Other Tools
 <p align="left">
+<a href="https://www.cypress.io/" rel="nofollow">   <img src="https://avatars.githubusercontent.com/u/8908513?s=200&amp;v=4" alt="Cypress Logo" width="36" height="36" style="max-width: 100%;"></a>
  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
